@@ -1,5 +1,5 @@
 
-# Windows 11 Z
+# Windows 10 Z
 
 A version of Zorin OS designed to look like Windows 10 out of the box.
 
