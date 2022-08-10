@@ -17,5 +17,5 @@ Password: user
 you will login automatically by default!
 
 ### Default Computer name 
-Windows11Z-Computer
+Windows10Z-Computer
 
